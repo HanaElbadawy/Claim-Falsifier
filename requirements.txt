@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-groq
+groq
+pandas
+numpy
+pydantic
+python-dotenv
+reportlab
+matplotlib
+streamlit
